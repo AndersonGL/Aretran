@@ -1,0 +1,67 @@
+@media screen and (max-width: 760px) {
+
+  h1 {
+
+    text-align: center;
+    font-size: 28px;
+    color: yellow;
+    background-color: #045A85;
+    width: 100%;
+    padding: auto;
+    margin: -22px;
+
+  }
+
+  img {
+    display: center;
+    width: 105%;
+    padding: 10px;
+  
+
+  }
+
+  li {
+
+    text-decoration: left;
+    font-size: 14px;
+    width: 85%;
+    height: 85%;
+    padding: auto;
+    margin-right: 10px;
+    color: black;
+  }
+
+  footer {
+    font-size: 8px;
+    padding: auto;
+    margin: auto;
+    width: 10px;
+  }
+
+  footer a {
+
+    display: center;
+    margin: 15px;
+    height: 50px;
+    font-size: 10px;
+    padding: auto;
+  }
+
+  h2 {
+
+    width: 105%;
+    padding: 5px;
+    font-size: 12px;
+    margin: -22px;
+  }
+
+  .float .btn-floating {
+    width: 260px !important;
+    height: auto !important;
+    border-radius: 5px !important;
+    text-align: left;
+    font-size: 0.9em !important;
+    background-color: #34af23;
+  }
+
+}
