@@ -1,5 +1,11 @@
 @import url('./reset.min.css');
 
+*{
+margin: 0px;
+padding: 0px;
+
+
+}
 
 body {
 
