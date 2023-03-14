@@ -1,5 +1,11 @@
 @import url('./reset.min.css');
 
+*{
+margin: 0px;
+padding: 0px;
+
+
+}
 
 body {
 
@@ -11,7 +17,7 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: cyan;
+  background-color: white;
   padding: auto;
 
 
@@ -22,8 +28,8 @@ h1 {
 
   font-family: Arial, Helvetica, sans- serif;
   font-size: 45px;
-  color: yellow;
-  background-color: #045A85;
+  color: white;
+  background-color: black;
   text-align: center;
   padding: 18px;
   margin: -10px;
@@ -65,6 +71,13 @@ img {
 
 }
 
+.img {
+
+width: 100px;
+height: 100px;
+
+}
+
 footer img {
 
   width: 40px;
@@ -94,8 +107,8 @@ footer > a {
 h2 {
 
   text-align: center;
-  background-color: #045A85;
-  color: yellow;
+  background-color: black;
+  color: white;
   font-size: 17px;
   text-align: center;
   padding: 10px;
