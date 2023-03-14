@@ -42,11 +42,7 @@ img {
   width: 98.5%;
   height: 400px;
   margin: 10px;
-  
   background-size: 100%;
-
-
-
 
 }
 
@@ -72,7 +68,20 @@ ul {
   /*tira os pontos da lista */
 }
 
+.leao {
 
+  width: 700px;
+  height: 430px;
+  position: absolute;
+  right: 0px;
+  top: 93%;
+  
+
+
+
+
+
+}
 .ipva {
 
 width: 98.5%;
