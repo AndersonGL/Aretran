@@ -1,32 +1,52 @@
 @media screen and (max-width: 760px) {
 
-  h1 {
 
+  body {
+
+  
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%;
+    height: 100%;
+    background: url("../carro.png");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: lightgrey;
+    padding: auto;
+  
+  
+  
+  }
+
+
+
+  h1 {
+    
+    width: 100%;
+    margin: 10px;
     text-align: center;
     font-size: 28px;
     color: white;
     background-color: black;
-    width: 100%;
-    padding: auto;
-    margin: -22px;
+   
 
   }
 
   img {
+
     display: center;
-    width: 103%;
-    padding: 18px;
+    width: 100%;
+    margin: 10px;
   
 
   }
 
   .ipva {
 
-    width: 100%;
+    width: 98.5%;
+    margin: 10px;
   }
 
-    
-    
     
     
 
@@ -59,10 +79,11 @@
 
   h2 {
 
-    width: 105%;
+    width: 100%;
     padding: 5px;
     font-size: 12px;
-    margin: -22px;
+    margin: 10px;
+    margin-right: 10px;
   }
 
   .float .btn-floating {
