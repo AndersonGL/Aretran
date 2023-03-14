@@ -21,8 +21,8 @@
 
 
   h1 {
-    
-    width: 100%;
+
+    width: 88%;
     margin: 10px;
     text-align: center;
     font-size: 28px;
@@ -35,7 +35,7 @@
   img {
 
     display: center;
-    width: 100%;
+    width: 95%;
     margin: 10px;
   
 
@@ -43,7 +43,8 @@
 
   .ipva {
 
-    width: 98.5%;
+    width: 95%;
+    height: 100%;
     margin: 10px;
   }
 
@@ -79,7 +80,7 @@
 
   h2 {
 
-    width: 100%;
+    width: 93%;
     padding: 5px;
     font-size: 12px;
     margin: 10px;
