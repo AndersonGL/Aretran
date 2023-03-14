@@ -26,12 +26,12 @@
 
   .leao {
 
-    width: 50px;
-    height: 50px;
+    width: 120px;
+    height: 120px;
     position: absolute;
-    right: 0px;
-    top: 80%;
-    
+    right: 4px;
+    top: 84%;
+    margin: 10px;
   
   
   
