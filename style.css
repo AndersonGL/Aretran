@@ -28,7 +28,7 @@ body {
 h1 {
 
   font-family: Arial, Helvetica, sans- serif;
-  font-variant: small-caps; 
+  font-variant: small-caps;
   color: white;
   background-color: black;
   text-align: center;
@@ -36,6 +36,16 @@ h1 {
   margin: 10px;
 
 
+}
+
+.color1 {
+
+  color: yellow;
+}
+
+.color2 {
+
+  color: yellow;
 }
 
 img {
@@ -115,7 +125,7 @@ footer>a {
 
 }
 
-h2 > p {
+h2>p {
 
   text-align: center;
   background-color: black;
