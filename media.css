@@ -5,10 +5,10 @@
 
   h1 {
 
-    width: 100%;
-    margin: 0px;
+    width: 87.3%;
+    margin: 10px;
     text-align: center;
-    font-size: 18px;
+    font-size: 22px;
     color: white;
     background-color: black;
    
@@ -78,10 +78,10 @@
 
   h2 > p {
 
-    width: 100%;
+    width: 94%;
     padding: 5px;
     font-size: 12px;
-    margin: 0px;
+    margin: 10px;
     margin-right: 10px;
   }
 
