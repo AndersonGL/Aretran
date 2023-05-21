@@ -14,7 +14,7 @@
     text-align: center;
     font-size: 22px;
     color: white;
-    background-color: black;
+    background-color: rgb(66, 62, 62);
    
 
   }
@@ -31,7 +31,7 @@
   img#leao {
 
     display: none;
-    
+
    /* width: 100px;
     height: 100px;
     position: absolute;
@@ -86,6 +86,7 @@
     font-size: 12px;
     margin: 10px;
     margin-right: 10px;
+   
   }
 
   .float .btn-floating {
