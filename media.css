@@ -9,7 +9,7 @@
 
   h1 {
 
-    width: 85%;
+    width: 89%;
     margin: 10px;
     text-align: center;
     font-size: 22px;
@@ -17,6 +17,11 @@
     background-color: rgb(66, 62, 62);
 
 
+  }
+
+  img {
+
+    width: 96%;
   }
 
 
@@ -65,7 +70,7 @@
 
   h2>p {
 
-    width: 93%;
+    width: 94%;
     padding: 5px;
     font-size: 12px;
     margin: 10px;
