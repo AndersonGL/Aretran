@@ -1,11 +1,11 @@
 @media screen and (max-width: 760px) {
 
-*{
+  * {
 
-  margin: 0%;
-  padding: 0%;
+    margin: 0%;
+    padding: 0%;
 
-}
+  }
 
   h1 {
 
@@ -15,42 +15,18 @@
     font-size: 22px;
     color: white;
     background-color: rgb(66, 62, 62);
-   
+
 
   }
 
-  img {
 
-    display: center;
-    width: 95%;
-    margin: 10px;
-  
-
-  }
-
-  img#leao {
-
-    display: none;
-
-   /* width: 100px;
-    height: 100px;
-    position: absolute;
-    right: 4px;
-    top: 112%;
-    margin: 10px; */ 
-  
-  
-  }
-
-  .ipva {
+  .multas {
 
     width: 95%;
     height: 300px;
     margin: 10px;
   }
 
-    
-    
 
   li {
 
@@ -62,6 +38,14 @@
     margin-right: 10px;
     color: black;
   }
+
+  .multas {
+    display: none;
+    width: 10vw;
+    height: 10vh;
+    margin: 10px;
+  }
+
 
   footer {
     font-size: 8px;
@@ -79,14 +63,14 @@
     padding: auto;
   }
 
-  h2 > p {
+  h2>p {
 
     width: 93%;
     padding: 5px;
     font-size: 12px;
     margin: 10px;
     margin-right: 10px;
-   
+
   }
 
   .float .btn-floating {
