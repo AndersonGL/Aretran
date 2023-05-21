@@ -28,22 +28,16 @@
 
   }
 
-  .multas {
+  img#leao {
 
-    width: 90px;
-    height: 200px;
-    position: absolute;
-    right: 5px;
-    top: 87%;
-
-
-
+    display: none;
+    
    /* width: 100px;
     height: 100px;
     position: absolute;
     right: 4px;
     top: 112%;
-    margin: 10px; */
+    margin: 10px; */ 
   
   
   }
