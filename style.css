@@ -2,7 +2,7 @@
 
 
 * {
-  
+
   margin: 0px;
   padding: 0px;
 
@@ -80,13 +80,13 @@ ul {
   /*tira os pontos da lista */
 }
 
-.leao {
+.multas {
 
-  width: 700px;
+  width: 600px;
   height: 430px;
   position: absolute;
   right: 0px;
-  top: 84%;
+  top: 81%;
 
 
 }

@@ -4,7 +4,7 @@
 
   margin: 0%;
   padding: 0%;
-  
+
 }
 
   h1 {
@@ -28,14 +28,22 @@
 
   }
 
-  .leao {
+  .multas {
 
-    width: 100px;
+    width: 130px;
+    height: 200px;
+    position: absolute;
+    right: 5px;
+    top: 87%;
+
+
+
+   /* width: 100px;
     height: 100px;
     position: absolute;
     right: 4px;
     top: 112%;
-    margin: 10px;
+    margin: 10px; */
   
   
   }
