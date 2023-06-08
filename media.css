@@ -1,4 +1,4 @@
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 600px) {
 
   * {
 
@@ -9,70 +9,34 @@
 
   h1 {
 
-    width: 100vw;
-    margin: 10px auto;
-    text-align: center;
-    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
     color: white;
     background-color: rgb(66, 62, 62);
-
+    text-align: center;
+    padding: 40px;
+    margin: 0px auto;
 
   }
 
-  img {
-
-    width: 100vw;
-  }
-
-  li {
-
-    text-decoration: left;
-    font-size: 14px;
-    width: 85%;
-    height: 85%;
-    padding: auto;
-    margin-right: 10px;
-    color: black;
-  }
 
 
   .multas {
 
     display: none;
-  } 
-
-
- 
-
-
-
-  footer {
-    font-size: 8px;
-    padding: auto;
-    margin: auto;
-    width: 10px;
   }
 
-  footer a {
 
-    display: center;
-    margin: 6px;
+  a>img {
+
+    width: 50px;
+    margin: 20px;
     height: 50px;
-    font-size: 10px;
-    padding: auto;
-  }
-
-  footer {
-
-    width: 0%;
-    padding: 5px;
-    font-size: 12px;
-    margin: 10px;
-    margin-right: 10px;
+    text-align: center;
+    display: inline-block;
 
   }
 
---------------------------------------------
 
   .float .btn-floating {
     width: 260px !important;
