@@ -65,7 +65,7 @@ ul {
   margin-inline-start: 0px;
   margin-inline-end: 0px;
   padding-inline-start: 40px;
-  list-style-type: disc;
+  list-style-type: none;
   /*tira os pontos da lista */
 }
 
@@ -77,9 +77,6 @@ li {
 
 
 }
-
-
-
 
 .center {
 
