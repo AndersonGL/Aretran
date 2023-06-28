@@ -1,3 +1,6 @@
+@charset "UTF-8";
+
+
 * {
     
     margin: 0;
@@ -5,9 +8,29 @@
 
 }
 
+@media (max-width: 600px)
+{
 
-.multa img {
+.multa img{
 
-     width: 100%;
+    width: 482px;
+}
+
+}
+
+@media (min-width: 1200px)
+{
+
+.multa img{
+  
+
+    
+    width: 780px;
+    height: 400px;
+    margin-left: 40%;
+    margin-top: -460px; 
+    padding-bottom: 70px;
    
+}
+
 }
