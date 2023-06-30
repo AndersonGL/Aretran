@@ -1,6 +1,6 @@
 @charset "UTF8";
 
-*{
+* {
 
   margin: 0%;
   padding: 0%;
@@ -20,7 +20,7 @@ body {
   box-sizing: border-box;
   padding: auto;
   margin: 0 auto;
-  
+
 
 
 
@@ -59,11 +59,9 @@ h1 {
 }
 
 
-.multa img  {
+.multa img {
 
- 
- 
- 
+  width: 475px;
 }
 
 ul {
@@ -73,14 +71,14 @@ ul {
   margin-block-end: 1em;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
-  padding-inline-start: 40px; 
-  list-style-type: circle; 
-  
+  padding-inline-start: 40px;
+  list-style-type: circle;
+
   /*tira os pontos da lista */
 }
 
 
-  
+
 
 
 li {
@@ -88,7 +86,7 @@ li {
   font-size: 16px;
   color: #000;
   border-radius: 50px;
- 
+
 
 
 }
@@ -98,19 +96,19 @@ li {
 
   text-align: center;
 
- 
+
 }
 
- a > img {
+a>img {
 
   width: 40px;
   height: 40px;
   margin: 20px;
- 
 
 
 
- }
+
+}
 
 footer {
 
