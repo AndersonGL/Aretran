@@ -11,22 +11,16 @@
 @media (max-width: 600px)
 {
 
-.multa img{
-
-    width: 485px;
-}
 
 }
+
+
 
 @media (min-width: 1200px)
 {
 
-.multa img{
-  
-
-    
-  display: none;
-}
 
 }
+
+
 
