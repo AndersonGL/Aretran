@@ -61,7 +61,7 @@ h1 {
 
 .multa img {
 
-  width: 482px;
+  width: 100%;
 }
 
 ul {
@@ -117,7 +117,7 @@ footer {
   color: white;
   font-size: 17px;
   text-align: center;
-  padding: 30px;
+  padding: 20px;
   margin: 0px;
 
 }
