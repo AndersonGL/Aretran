@@ -3,22 +3,24 @@
 
 * {
     
-    margin: 0;
-    padding: 0;
+    
 
 }
 
-@media (max-width: 600px)
-{
+@media (max-width: 600px){
 
-
+     
 }
 
 
 
 @media (min-width: 1200px)
 {
+  
+  .multa  img {
 
+        display: none;
+    }
 
 }
 
