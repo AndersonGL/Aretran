@@ -12,7 +12,7 @@
 body {
 
   font-family: 'Courier New', Courier, monospace;
-  max-width: 100%;
+  width: 105%;
   background: url("../carro.png");
   background-size: none;
   background-position: center;
@@ -64,7 +64,7 @@ h1 {
 
 .multa img {
 
-  width: 100%;
+  width: 95%;
 
 }
 
