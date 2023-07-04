@@ -142,7 +142,7 @@ footer {
 .float .btn-floating {
   width: 260px !important;
   height: auto !important;
-  border-radius: 5px !important;
+  border-radius: 25px !important;
   text-align: center;
   font-size: 1.5em !important;
   background-color: #34af23;
