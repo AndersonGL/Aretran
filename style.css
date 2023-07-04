@@ -20,7 +20,7 @@ body {
   box-sizing: border-box;
   padding: auto;
   margin: 0 auto;
-
+  overflow-x: hidden;
 
 
 
@@ -55,7 +55,7 @@ h1 {
   height: 300px;
   margin: 0px;
   box-sizing: border-box;
-
+ 
 }
 
 
@@ -75,6 +75,7 @@ ul {
   margin-inline-end: 0px;
   padding-inline-start: 40px;
   list-style-type: circle;
+ 
 
   /*tira os pontos da lista */
 }
@@ -105,8 +106,8 @@ a  img {
 
   width: 40px;
   height: 40px;
-  margin: 20px;
-  padding: 10px;
+  margin: 15px;
+  padding: 0px;
 
 
 }
