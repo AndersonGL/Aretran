@@ -21,3 +21,12 @@
 
 
 
+@media (min-width: 1200px)
+{
+  
+  .multa  img {
+
+        display: none;
+    }
+
+}
