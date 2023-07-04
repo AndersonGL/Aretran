@@ -23,11 +23,6 @@ body {
   margin: 0 auto;
   overflow-x: hidden;
   
-  
-
-
-
-
 }
 
 h1 {
@@ -58,7 +53,7 @@ h1 {
 
   width: 100%;
   height: 300px;
-  margin: 10px;
+  margin: 5px;
   box-sizing: border-box;
  
 }
