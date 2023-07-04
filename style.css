@@ -50,10 +50,10 @@ h1 {
 
 .carro {
 
-  width: 100%;
+  width: 360px;
   height: 300px;
   margin: 0px auto;
-  background-size: contain;
+  
   
  
 }
@@ -61,7 +61,7 @@ h1 {
 
 .multa img {
 
- width: 100%;
+ width: 360px;
   
 
 }
