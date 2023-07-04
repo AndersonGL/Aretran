@@ -14,7 +14,7 @@ body {
   font-family: 'Courier New', Courier, monospace;
   width: 100%;
   background: url("../carro.png");
-  background-size: contain;
+  background-size: couver;
   background-position: center;
   background-repeat: no-repeat;
   background-color: rgb(124, 122, 122);
