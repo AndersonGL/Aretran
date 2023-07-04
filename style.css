@@ -18,7 +18,6 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-color: rgb(124, 122, 122);
-  box-sizing: border-box;
   padding: auto;
   margin: 0px auto;
   overflow-x: hidden;
