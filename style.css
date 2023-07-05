@@ -141,22 +141,22 @@ footer {
 }
 
 .float .btn-floating {
-  width: 260px !important;
-  height: auto !important;
-  border-radius: 25px !important;
+  width: 260px;
+  height: auto;
+  border-radius: 25px;
   text-align: center;
-  font-size: 1.5em !important;
+  font-size: 1.5em;
   background-color: #34af23;
 }
 
 @media only screen and (max-width: 600px) {
   .float .btn-floating {
-    margin-left: -5em !important;
+    margin-left: -5em;
   }
 
   .float {
     right: auto;
-    left: 200px !important;
+    left: 200px;
   }
 }
 
@@ -164,8 +164,8 @@ footer {
   position: relative;
   width: 250px;
   height: 76px;
-  font-size: 0.8em;
-  border: 5px solid black;
+  font-size: 1.5em;
+  border: 1px solid black;
   color: #FFF;
   box-shadow: 0 0 0 0 rgba(50, 205, 50, 0.7);
   border-radius: 25px;
@@ -187,7 +187,7 @@ footer {
 }
 
 .select_idade {
-  padding: 0 !important;
+  padding: 0;
 }
 
 .desenvolvido_por {
@@ -238,22 +238,20 @@ footer {
 }
 
 .float .btn-floating {
-  width: 260px !important;
-  height: auto !important;
-  border-radius: 5px !important;
+  width: 260px;
+  height: auto;
+  border-radius: 5px;
   text-align: center;
-  font-size: 0.9em !important;
+  font-size: 0.9em;
   background-color: #34af23;
 }
 
 @media only screen and (max-width: 600px) {
   .float .btn-floating {
-    margin-left: -5em !important;
-  }
-
+    margin-left: -5em
   .float {
     right: auto;
-    left: 200px !important;
+    left: 200px;
   }
 }
 
