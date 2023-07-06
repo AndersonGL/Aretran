@@ -20,8 +20,8 @@ body {
   background-color: rgb(124, 122, 122);
   padding: auto;
   margin: 0px auto;
-  overflow-x: hidden;
-  position: absolute;
+  overflow: hidden;
+  
 }
 
 h1 {
