@@ -19,8 +19,8 @@ body {
   background-repeat: no-repeat;
   background-color: rgb(124, 122, 122);
   padding: auto;
-  margin: 0px auto;
-  overflow: hidden;
+  margin: 0px ;
+  overflow-x: hidden;
   
 }
 
