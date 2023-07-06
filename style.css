@@ -21,7 +21,7 @@ body {
   padding: auto;
   margin: 0px auto;
   overflow-x: hidden;
-  
+  position: absolute;
 }
 
 h1 {
