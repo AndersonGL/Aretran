@@ -19,9 +19,9 @@ body {
   background-repeat: no-repeat;
   background-color: rgb(124, 122, 122);
   padding: 0px;
-  margin: 0px ;
+  margin: 0px;
   overflow-x: hidden;
-  
+
 }
 
 h1 {
@@ -35,7 +35,7 @@ h1 {
   padding: 25px 0px;
   margin: 0px auto;
   position: fixed;
-  
+
 
 
 }
@@ -55,17 +55,17 @@ h1 {
   width: 100%;
   height: 500px;
   margin: 0px 0px;
-  
-  
- 
+
+
+
 }
 
 
 .multa img {
 
- width: 100%;
- margin: 0px 0px;
- 
+  width: 100%;
+  margin: 0px 0px;
+
 
 }
 
@@ -79,7 +79,7 @@ ul {
   margin-inline-end: 0px;
   padding-inline-start: 30px;
   list-style-type: circle;
- 
+
 
   /*tira os pontos da lista */
 }
@@ -108,14 +108,16 @@ li {
 
 }
 
-a  img {
+a img {
 
   width: 40px;
   height: 40px;
-  margin: 18px;
-  padding: 0px;
-  border-left: 0px;
-  margin-bottom: 0px;
+  margin: 10px;
+  text-align: center;
+  padding: 10px;
+  margin-top: 10px;
+
+  
 
 
 }
@@ -127,10 +129,10 @@ footer {
   color: white;
   font-size: 17px;
   text-align: center;
-  padding: 25px;
-  margin: -10px;
+  padding: 20px;
+  margin: -15px;
 
-}
+} 
 
 
 .float {
@@ -250,7 +252,9 @@ footer {
 
 @media only screen and (max-width: 600px) {
   .float .btn-floating {
-    margin-left: -5em }
+    margin-left: -5em
+  }
+
   .float {
     right: auto;
     left: 200px;
