@@ -2,8 +2,8 @@
 
 * {
 
-  margin: 0%;
-  padding: 0%;
+  margin: 0;
+  padding: 0;
 
 }
 
@@ -12,7 +12,7 @@
 body {
 
   font-family: 'Courier New', Courier, monospace;
-  width: 100vw;
+  width: 100%;
   background: url("../carro.png");
   background-size: couver;
   background-position: center;
@@ -52,7 +52,7 @@ h1 {
 
 .carro {
 
-  width: 100%;
+  width: 100vw;
   height: 500px;
   margin: 0px 0px;
 
@@ -63,8 +63,8 @@ h1 {
 
 .multa img {
 
-  width: 100%;
-  margin: 0px;
+  max-width: 100%;
+ 
 
 
 }
@@ -81,7 +81,6 @@ ul {
   list-style-type: circle;
 
 
-  /*tira os pontos da lista */
 }
 
 
