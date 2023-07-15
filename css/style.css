@@ -56,15 +56,10 @@ h1 {              /* titulo do topo*/
 
   width: 100vw;
   height: 500px;
-  margin: 0px 0px;
-
+ 
 
 
 }
-
-
-
-
 
 
 ul {           /*lista de itens */
@@ -243,8 +238,8 @@ footer {            /* rodapé */
 }
 
 .float .btn-floating {
-  width: 260px;
-  height: auto;
+  width: 100px;
+  height: 100px;
   border-radius: 50px;
   text-align: center;
   font-size: 1.1em;
