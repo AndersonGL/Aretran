@@ -27,7 +27,7 @@ body {
 h1 {
 
   font-family: sans-serif;
-  width: 100%;
+  width: 100vw;
   font-size: 28px;
   background-color: #000;
   color: white;
