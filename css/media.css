@@ -9,12 +9,16 @@
 }
 
 
-@media (max-width: 48px) 
+@media (max-width: 900px) 
+
+.div img {
+
+
+	width:100vh;
+}
 
 
 {
-
-
 
  .multa img {
 
