@@ -54,8 +54,8 @@ h1 {              /* titulo do topo*/
 
 .carro {        /* imagem do veiculo */
 
-  width: 120%;
-  height: 500px;
+  width: 100vw;
+  height: 100vh;
  
 
 
