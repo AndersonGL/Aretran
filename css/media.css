@@ -9,13 +9,7 @@
 }
 
 
-@media (max-width: 480px) 
-
-.div img {
-
-
-	width:100vh;
-}
+@media (max-width: 900px) 
 
 
 {
