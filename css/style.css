@@ -9,7 +9,8 @@
 
 
 
-body {              /* corpo */
+body {
+  /* corpo */
 
   font-family: 'Courier New', Courier, monospace;
   width: 100%;
@@ -21,12 +22,13 @@ body {              /* corpo */
   padding: 0px;
   margin: 0px;
   overflow-x: hidden;
-  
+
 
 }
 
 
-h1 {              /* titulo do topo*/
+h1 {
+  /* titulo do topo*/
 
   font-family: sans-serif;
   width: 100%;
@@ -42,7 +44,8 @@ h1 {              /* titulo do topo*/
 
 }
 
-.color1 {        /* cores do topo*/
+.color1 {
+  /* cores do topo*/
 
   color: yellow;
 }
@@ -52,7 +55,8 @@ h1 {              /* titulo do topo*/
   color: yellow;
 }
 
-.carro {        /* imagem do veiculo */
+.carro {
+  /* imagem do veiculo */
 
   width: 104%;
   height: 75vh;
@@ -63,7 +67,8 @@ h1 {              /* titulo do topo*/
 }
 
 
-ul {           /*lista de itens */
+ul {
+  /*lista de itens */
 
   display: block;
   margin-block-start: 1em;
@@ -77,11 +82,16 @@ ul {           /*lista de itens */
 }
 
 
+div>img {
+
+  width: 100vw;
+  padding-bottom: 20px;
+}
 
 
+li {
+  /*  formatação dos itens */
 
-li {               /*  formatação dos itens */
-  
   font-size: 15px;
   color: #000;
   border-radius: 50px;
@@ -89,12 +99,6 @@ li {               /*  formatação dos itens */
 
 
 }
-
-
-.multa img {
-
-}
- 
 
 .center {
 
@@ -106,21 +110,20 @@ li {               /*  formatação dos itens */
 
 }
 
-a img {                /* icones */
+a img {
+  /* icones */
 
   width: 40px;
   height: 40px;
   margin: 10px;
   text-align: center;
-  padding: -20px;
+  padding: 20px;
   margin-top: 0px;
-
-  
-
 
 }
 
-footer {            /* rodapé */     
+footer {
+  /* rodapé */
 
 
   background-color: #000;
@@ -128,13 +131,14 @@ footer {            /* rodapé */
   color: white;
   font-size: 16px;
   text-align: center;
-  padding: 20px;
+  padding: 40px;
   margin: -20px;
 
-} 
+}
 
-.float {        /* botão chamada api whatsapp*/   
- 
+.float {
+  /* botão chamada api whatsapp*/
+
   position: fixed;
   bottom: 20px;
   right: 20px;
@@ -231,7 +235,7 @@ footer {            /* rodapé */
 }
 
 
-.float {              
+.float {
   position: fixed;
   bottom: 20px;
   right: 20px;
@@ -245,7 +249,7 @@ footer {            /* rodapé */
   text-align: center;
   font-size: 1.1em;
   background-color: #34af23;
- 
+
 }
 
 @media only screen and (max-width: 600px) {
