@@ -60,7 +60,10 @@ h1 {
 
   width: 104%;
   height: 60vh;
-  display: flexbox;
+  display: flex;
+  justify-content: center;
+  
+
   
 
 
