@@ -59,7 +59,8 @@ h1 {
   /* imagem do veiculo */
 
   width: 104%;
-  height: 70vh;
+  height: 60vh;
+  display: flexbox;
   
 
 
