@@ -19,7 +19,7 @@ body {
   background-color: rgb(124, 122, 122);
   padding: 0px;
   margin: 0px;
-  overflow-x: fixes;
+  overflow-x: auto;
   
 }
 
