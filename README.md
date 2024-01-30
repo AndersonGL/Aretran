@@ -1,1 +1,1 @@
-SITE CRIADO COM HTML, CSS E JAVASCRIPT.
+Site Estático criado com Html, Css e JavaScript.
