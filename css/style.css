@@ -11,6 +11,8 @@ body {
   /* corpo */
 
   font-family: 'Courier New', Courier, monospace;
+  width: 100%;
+  display:flex;
   justify-content: space-around;
   background: url("../carro.png");
   background-size: couver;
@@ -19,7 +21,7 @@ body {
   background-color: rgb(124, 122, 122);
   padding: 0px;
   margin: 0px;
-  overflow-x: auto;
+  overflow-x: hidden;
   
   
 }
