@@ -28,14 +28,14 @@ h1 {
   /* titulo do topo*/
 
   font-family: sans-serif;
-  width: 110%;
+  width: 100%;
   font-size: 28px;
   background-color: #000;
   color: white;
   text-align: center;
   padding: 25px 0px;
   margin: 0px auto;
-  position: absolute;
+  position: relative;
   
 
 

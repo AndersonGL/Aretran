@@ -1,18 +1,15 @@
 @charset "UTF8";
 
 
-@media screen and (min-width: 768px) {
-
-
-
+@media screen and (min-width: 480px) {
 
     .placa {
     
     
     height: 60%;
     position: absolute;
-    left: 57%;
-    top: 60%;
+    left: 55%;
+    top: 75%;
     bottom: 50%;
    
     }
