@@ -1,31 +1,22 @@
-@charset "UTF-8";
+@charset "UTF8";
 
 
+@media screen and (min-width: 992px) {
 
-@media (max-width: 991px) {
-	body {
-		width: 33.33%;
-	}
+    .placa {
+    
+    
+    height: 71%;
+    position: absolute;
+    left: 48%;
+    top: 60%;
+    bottom: 50%;
+   
+    }
+
+    
+
 }
-
-@media (max-width: 767px) {
-	body {
-		width: 50%;
-	}
-
-}
-
-@media (max-width: 500px) {
-	body {
-		padding: 30px 10px;
-	}
-}
-
-
-
-
-
-
 
 
 
