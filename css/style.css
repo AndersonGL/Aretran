@@ -78,6 +78,7 @@ ul {
   margin-inline-end: 0px;
   padding-inline-start: 30px;
   list-style-type: circle;
+  
 
 
 }
@@ -89,7 +90,7 @@ ul {
 li {
   /*  formatação dos itens */
 
-  font-size: 15px;
+  font-size: 18px;
   color: #000;
   border-radius: 50px;
 
