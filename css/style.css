@@ -11,8 +11,6 @@ body {
   /* corpo */
 
   font-family: 'Courier New', Courier, monospace;
-  width: 100%;
-  display:flex;
   justify-content: space-around;
   background: url("../carro.png");
   background-size: couver;
@@ -90,14 +88,11 @@ li {
 }
 
 .placa {
-
-  width: 100%;
-  height: 254px;
+   
   display: flex;
-  position: relative;
-  bottom: 50%;
-  top: -30px;
-  right: 1px;
+  width: 100%;
+  justify-content:space-around ;
+  
 
   
 }
