@@ -11,7 +11,7 @@ body {
   /* corpo */
 
   font-family: 'Courier New', Courier, monospace;
- 
+  width: 100%;
   background: url("../carro.png");
   background-size: couver;
   background-position: center;
