@@ -91,9 +91,10 @@ li {
  .placa {
    
   display:flex ;
-  height: 312px;
   width: 100%;
-  justify-content:space-around ;
+  height: 100%;
+  justify-content: space-around;
+
   
   
 }   
