@@ -1,50 +1,88 @@
 @charset "UTF8";
 
 
-/*@media screen and (max-width: 992px) {
 
-    .placa{
-       
-        display: flex;
+
+
+@media screen and (min-width: 768px) {
+
+    h1>span {
+
+        font-size: 50px;
+    }
+
+    .carro {
+
         width: 100%;
+        height: 70vh;
+        display: flex;
+    }
+
+    li {
+
+        font-size: 20px;
+        color: #000;
+        border-radius: 200px;
+    }
+
+
+
+    .placa > img  {
+
+        width: 50%;
         height: 100%;
-   
- 
-     }   
- 
- }               */
+        left: 50px;
+        right: 100%;
+        bottom: 50%;
+        
+    }
 
- /*   @media screen and (max-width: 768px) {
+    a img {
 
-   .placa{
+        /* icones */
       
-     display: flex;
-     width: 100%;
-     height: 250px;
+        width: 60px;
+        height: 60px;
+        margin: 18px;
+        text-align: center;
+        padding: 5px;
+        margin-top: 0px;
+
+   }
+
+   footer {
+    /* rodapé */
+  
+  
+    background-color: #000;
+    width: 100%;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 60px;
+    margin: -20px;
+  
+  }
 
 
-    }   
 
-}            */
+
+}
 
 
 @media screen and (max-width: 480px) {
 
-    .placa{
-       
-       display: flex;
-       width: 100%;
-       height: 262px;
-      
-    
-     }   
- 
- }
 
 
 
 
+    .placa > img {
+
+        display: flex;
+        width: 100%;
+        height: 262px;
 
 
+    }
 
-
+}
