@@ -1,1 +1,1 @@
-// Site Estático criado com Html, Css e JavaScript. //
+// Site Estático criado com HTML e CSS //
