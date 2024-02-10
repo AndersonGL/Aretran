@@ -1,3 +1,145 @@
+@charset "UTF8";
+
+* {
+
+  margin: 0%;
+  padding: 0%;
+
+}
+
+
+
+body {
+
+  font-family: 'Courier New', Courier, monospace;
+  width: 100%;
+  background: url("../carro.png");
+  background-size: couver;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgb(124, 122, 122);
+  padding: 0px;
+  margin: 0px;
+  overflow-x: hidden;
+
+}
+
+h1 {
+
+  font-family: sans-serif;
+  width: 100%;
+  font-size: 32px;
+  background-color: #000;
+  color: white;
+  text-align: center;
+  padding: 25px 0px;
+  margin: 0px auto;
+  position: fixed;
+
+
+
+}
+
+.color1 {
+
+  color: yellow;
+}
+
+.color2 {
+
+  color: yellow;
+}
+
+.carro {
+
+  width: 100%;
+  height: 500px;
+  margin: 0px 0px;
+
+
+
+}
+
+
+.multa img {
+
+  width: 100%;
+  margin: 0px 0px;
+
+
+}
+
+
+ul {
+
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 30px;
+  list-style-type: circle;
+
+
+  /*tira os pontos da lista */
+}
+
+
+
+
+
+li {
+
+  font-size: 15px;
+  color: #000;
+  border-radius: 50px;
+
+
+
+}
+
+.placa {
+
+  text-align: center;
+}
+
+.center {
+
+
+  text-align: center;
+  margin: 0px;
+  padding: 10px;
+
+
+}
+
+a img {
+
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+  text-align: center;
+  padding: -20px;
+  margin-top: 0px;
+
+  
+
+
+}
+
+footer {
+
+
+  background-color: #000;
+  width: 100vw;
+  color: white;
+  font-size: 17px;
+  text-align: center;
+  padding: 20px;
+  margin: -20px;
+
+} 
+
 .float {
     /* botão chamada api whatsapp*/
   

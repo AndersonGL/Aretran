@@ -73,17 +73,32 @@
 @media screen and (max-width: 480px) {
 
 
+    h1 {
 
+        font-size: 28px;
+        text-align: center;
+        
+    }
+
+
+    .carro {
+
+        width: 105%;
+    }
 
 
     .placa > img {
 
         display: flex;
-        width: 100%;
+        width: 105%;
         height: 262px;
+        margin-bottom: 30px;
        
+    }
 
+    footer {
 
+        font-size: 15px;
     }
 
 }
